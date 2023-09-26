@@ -1,12 +1,23 @@
 # Exercice Bootstrap 3 - Maquette Responsive
 
-Intégrez la maquette en utilisant la grille Bootstrap. Faites en sorte qu'elle s'adapte à toutes les tailles d'écran représentés par les artboards.
+Intégrez la maquettes en utilisant la grille Bootstrap.
 
-☝️ Commencez par intégrer la grille, puis insérez le contenu par après.
+**Commencez par intégrer uniquement la grille**, puis ajoutez le contenu par la suite.
 
-Les éléments nécessaires à l'intégration se trouvent dans le dossier **\_consigne**.
+### Trouver les maquettes
 
-Afin de rendre les colonnes visibles lors de la première étape, vous pouvez utiliser la CSS suivante:
+Le fichier se trouve:
+
+- dans l'équipe de votre classe
+- dans le projet _FD-03-Bootstrap_
+
+Il se nomme _03 - Bootstrap - Maquette responsive_.
+
+Vous pouvez également le trouver [ici](https://www.figma.com/file/ob6AbllnkmcjYp5zIB0nPQ/03---Bootstrap---Maquette-responsive?type=design&mode=design&t=pIX4MsevseT457JG-1).
+
+### Rendre les colonnes visibles
+
+Afin de rendre les colonnes visibles, vous pouvez utiliser la CSS suivante:
 
 ```CSS
 .row + .row {
@@ -22,4 +33,4 @@ Afin de rendre les colonnes visibles lors de la première étape, vous pouvez ut
 }
 ```
 
-![](_consigne/maquette@1x.png)
+![](_screenshots/maquette1@1x.png)

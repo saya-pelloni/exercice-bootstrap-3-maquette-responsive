@@ -33,4 +33,4 @@ Afin de rendre les colonnes visibles, vous pouvez utiliser la CSS suivante:
 }
 ```
 
-![](_screenshots/maquette1@1x.png)
+![](_screenshots/maquette@1x.png)
